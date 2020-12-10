@@ -3,48 +3,29 @@
 Repo ini digunakan untuk mendokumentasikan repo yang ada, guide, atau stack yang kita akan gunakan nantinya,
 berikut standarisasi dan flow untuk berkontribusi untuk setiap repo yang ada.
 ```
-
-#### Index
-1. [TeraskosDEV Team Member](#teraskosdev-team)
-1. [Valuable Tools](#valuable-tools) 
-1. [Contribution Guide Resource](#contribution-guide-resources) 
-1. [Front End Stack](#front-end-stack) 
-1. [Back End Stack](#back-end-stack) 
-
 #### 10-12-2020
 ```
 Keperluan saat ini adalah Endpoints dan Landing Page, 
 jadi page ini sementara diutamakan untuk memetakan keperluan 
 yang akan digunakan untuk mengembangkan API dan Landing Page.
 ```
+## Index
+1. [TeraskosDEV Team Member](#teraskosdev-team)
+1. [Valuable Tools](#valuable-tools) 
+1. [Contribution Guide Resource](#contribution-guide-resources) 
+1. [Front End Stack](#front-end-stack) 
+1. [Back End Stack](#back-end-stack) 
 
-#### TeraskosDEV Team
+
+## TeraskosDEV Team
 
 - [@saveroo](https://github.com/saveroo)
   - Bertugas memanage & mendokumentasikan keperluan technical
   - Berikut arsitektural untuk menunjang project ini.
 - ...
 - 
-
-
-#### Valuable Tools
-- [Insomnia Core (Postman Equivalent)](https://insomnia.rest/)
-  - Used for API Testing
-- [Insomnia Designer (OPEN API Specification) to help building API](https://insomnia.rest/download/#linux)
-  - Used for designing Endpoints and testing based on defined schema.
-- [FIGMA](https://figma.com/download/)
-  - UI Design Proposal
-- [Play Tailwind](https://play.tailwindcss.com/)
-  - Setelah UI design coba bisa di implementasikan disini dahulu untuk prototyping komponen.
-
   
-#### Contribution Guide Resources
-- [Gitmoji](https://gitmoji.carloscuesta.me/)
-  - Untuk commit message, cth: "feat(:tada:): implement A logic."
-- [Conventional Commit Message](https://www.conventionalcommits.org/en/v1.0.0/)
-  - Tolong dipelajari untuk, tidak harus, tapi akan lebih baik jika dapat meng implementasikan.
-  
-### Front-End Stack
+## Front-End Stack
 Saat ini hanya untuk perluan landing page
 
 - __[Landing Page]__
@@ -67,12 +48,29 @@ Saat ini hanya untuk perluan landing page
     
 - __[Mobile??, Silahkan diisi]__
 
-### Back-End Stack.
+## Back-End Stack.
 
   - [TODO LIST]
     - [] Initialize STRAPI Project at [teraskos-api](https://github.com/teraskos/teraskos-api)
 
-### General TODO
+## Valuable Tools
+- [Insomnia Core (Postman Equivalent)](https://insomnia.rest/)
+  - Used for API Testing
+- [Insomnia Designer (OPEN API Specification) to help building API](https://insomnia.rest/download/#linux)
+  - Used for designing Endpoints and testing based on defined schema.
+- [FIGMA](https://figma.com/download/)
+  - UI Design Proposal
+- [Play Tailwind](https://play.tailwindcss.com/)
+  - Setelah UI design coba bisa di implementasikan disini dahulu untuk prototyping komponen.
+
+  
+## Contribution Guide Resources
+- [Gitmoji](https://gitmoji.carloscuesta.me/)
+  - Untuk commit message, cth: "feat(:tada:): implement A logic."
+- [Conventional Commit Message](https://www.conventionalcommits.org/en/v1.0.0/)
+  - Tolong dipelajari untuk, tidak harus, tapi akan lebih baik jika dapat meng implementasikan.
+
+## General TODO
 
 - []
 - []
