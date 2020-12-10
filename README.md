@@ -18,7 +18,7 @@ jadi page ini sementara diutamakan untuk memetakan keperluan
 yang akan digunakan untuk mengembangkan API dan Landing Page.
 ```
 
-#### TeraskoDEV Team
+#### TeraskosDEV Team
 
 - [@saveroo](https://github.com/saveroo)
   - Bertugas memanage & mendokumentasikan keperluan technical
