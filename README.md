@@ -5,9 +5,11 @@ berikut standarisasi dan flow untuk berkontribusi untuk setiap repo yang ada.
 ```
 
 #### Index
-1. Team
-1. Back End
-1. 
+1. [TeraskosDEV Team Member](#teraskosdev-team)
+1. [Valuable Tools](#valuable-tools) 
+1. [Contribution Guide Resource](#contribution-guide-resources) 
+1. [Front End Stack](#front-end-stack) 
+1. [Back End Stack](#back-end-stack) 
 
 #### 10-12-2020
 ```
