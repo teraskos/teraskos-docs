@@ -21,9 +21,9 @@ yang akan digunakan untuk mengembangkan API dan Landing Page.
   - Used for designing Endpoints and testing based on defined schema.
   
 #### Contribution Guide
-- (Gitmoji)(https://gitmoji.carloscuesta.me/) :tada:
+- [Gitmoji](https://gitmoji.carloscuesta.me/) :tada:
   - Untuk commit message
-- (Conventional Commit Message](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Conventional Commit Message](https://www.conventionalcommits.org/en/v1.0.0/)
   - Untuk Commit message.
   
 ### Front-End Stack
