@@ -5,7 +5,9 @@ berikut standarisasi dan flow untuk berkontribusi untuk setiap repo yang ada.
 ```
 
 #### Index
-Not yet...
+1. Team
+1. Back End
+1. 
 
 #### 10-12-2020
 ```
@@ -14,11 +16,25 @@ jadi page ini sementara diutamakan untuk memetakan keperluan
 yang akan digunakan untuk mengembangkan API dan Landing Page.
 ```
 
+#### TeraskoDEV Team
+
+- [@saveroo](https://github.com/saveroo)
+  - Bertugas memanage & mendokumentasikan keperluan technical
+  - Berikut arsitektural untuk menunjang project ini.
+- ...
+- 
+
+
 #### Valuable Tools
 - [Insomnia Core (Postman Equivalent)](https://insomnia.rest/)
   - Used for API Testing
 - [Insomnia Designer (OPEN API Specification) to help building API](https://insomnia.rest/download/#linux)
   - Used for designing Endpoints and testing based on defined schema.
+- [FIGMA](https://figma.com/download/)
+  - UI Design Proposal
+- [Play Tailwind](https://play.tailwindcss.com/)
+  - Setelah UI design coba bisa di implementasikan disini dahulu untuk prototyping komponen.
+
   
 #### Contribution Guide Resources
 - [Gitmoji](https://gitmoji.carloscuesta.me/)
@@ -28,9 +44,6 @@ yang akan digunakan untuk mengembangkan API dan Landing Page.
   
 ### Front-End Stack
 Saat ini hanya untuk perluan landing page
-- Landing Page
-- ????
-
 
 - __[Landing Page]__
   - [JS Library]
@@ -48,9 +61,9 @@ Saat ini hanya untuk perluan landing page
       - firebase
       - heroku
   - [TODO LIST]
-    - [] Bootstraping Next.JS Project at [teraskos-web](https://github.com/teraskos/teraskos-web)
+    - [ ] Bootstraping Next.JS Project at [teraskos-web](https://github.com/teraskos/teraskos-web)
     
-[Text]
+- __[Mobile??, Silahkan diisi]__
 
 ### Back-End Stack.
 
